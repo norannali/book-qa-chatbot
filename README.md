@@ -34,7 +34,10 @@ Now you can — directly on Telegram 📱
 ## 📌 Architecture
 
 PDF Book ➜ Text Splitter ➜ Embeddings (Ollama) ➜ FAISS Vector Store
+
 ⬇ ⬇
+
+
 User Question ➜ RAG QA Chain ➜ LLM Answer via Telegram Bot
 
 ---
