@@ -17,7 +17,8 @@ The system combines several key components:
 ```
 [PDF Document] → [Text Extraction] → [Chunking] → [Embeddings] → [FAISS Index]
                                                                         ↓
-[Response] → [LLM Processing] → [Retrieval] → [Telegram Bot] → [User Query]
+[Response] ← [LLM Processing] ← [Retrieval] ← [Telegram Bot] ← [User Query]
+ 
 ```
 
 ## Technical Implementation
