@@ -47,7 +47,7 @@ User Question ➜ RAG QA Chain ➜ LLM Answer via Telegram Bot
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/noranali/book-qa-telegram-bot.git
+git clone https://github.com/norannali/book-qa-chatbot
 cd book-qa-telegram-bot
 ```
 ---
